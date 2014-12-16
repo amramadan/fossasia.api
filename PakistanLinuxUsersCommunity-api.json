@@ -1,0 +1,17 @@
+{
+  "name": "Pakistan Linux Users Community",
+  "url": "http://linuxpakistan.net/",
+  "location": {
+    "city": "Karachi",
+    "country": "PK",
+    "lat": 24.86,
+    "lon": 67.01
+  },
+  "contact": {
+    "email": "pluc-request@linux.com.pk"
+  },
+  "state": {
+    "lastchange": "2014-12-16T07:50:12.056Z"
+  },
+  "api": "1.0.0"
+}
